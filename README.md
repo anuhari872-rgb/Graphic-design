@@ -1,4 +1,4 @@
 # Graphic-design
 
 ---
-C:\Users\HP\OneDrive\Documents\graphic.py
+ C:\Users\HP\Graphic-design
